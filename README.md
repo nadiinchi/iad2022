@@ -1,1 +1,50 @@
-# iad2022
+# «Основы машинного обучения»
+## (майнор «Интеллектуальный анализ данных», НИУ ВШЭ, группа ИАД-7, 2022)
+
+Семинарист: Надежда Чиркова (/nchirkova@hse.ru/, telegram @nadiinchi)
+
+Ассистентки: Екатерина Кострыкина (@ekostrykina), Юлия Короткова (@Julia_Korot)
+
+[Страница курса на вики ВШЭ](http://wiki.cs.hse.ru/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F))
+
+[Чат](https://t.me/+f_60KCmo80hhN2Ni)
+
+[Zoom](https://zoom.us/j/94594342525?pwd=bXR5YzdEQWg1cm85citKdWR0Y2M0Zz09)
+
+### Установка Anaconda и запуск Jupyter notebook
+* Скачайте и установите Anaconda для своей системы с [сайта](https://www.anaconda.com/download/). 
+* Откройте Anaconda Navigator, выберите Jupyter Notebook
+* Найдите или создайте папку, в которой будете работать
+* Нажмите New -> Python 3
+* Альтернативно можно запускать из консоли, открыв ее в нужной директории и написав `jupyter notebook`
+
+## Домашние задания
+Домашние задания выдаются на 1 или 2 недели (мягкий дедлайн). По истечении дедлайна в течение нескольких дней есть возможность досдать задание со штрафными баллами: - 1 балл за каждый день просрочки до жесткого дедлайна. После жесткого дедлайна задание не принимается (совсем, даже при опоздании на одну секунду). Но: два раза студент может сдать домашнее задание после мягкого дедлайна (но до жёсткого) без штрафов.
+
+Задания нужно сдавать в Anytask, информация об этом скоро появится. Для доступа к курсу необходимо зарегистрироваться в системе.
+
+__Очень важно:__ Категорически запрещено пользоваться чужими решениями заданий (даже смотреть их), в том числе, размещенными в открытых источниках (если таковые обнаружатся). При обнаружении списывания выставляется 0 за задание (в случае списывания у одногруппника/однокурскника - ему/ей тоже), а также подается докладная записка в учебный офис.
+
+* [Практическое задание 1](https://github.com/nadiinchi/iad2021/blob/main/materials/hw_sem1.ipynb). Мягкий дедлайн: 2 февраля, 23:59. Жесткий дедлайн: 9 февраля, 23:59.
+
+## Проверочные
+Раз в несколько лекций проводится проверочная на знание материала лекций (и иногда семинаров). Строго рекомендуется повторять материал лекций перед проверочными!
+
+## Материалы семинаров:
+*Семинар 1.* Numpy.
+* [Ноутбук с семинара по Numpy](https://github.com/nadiinchi/iad2022/blob/main/materials/Seminar1_numpy.ipynb)
+* [Ноутбук-туториал по numpy](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/Sem2_NumPy.ipynb)
+* [Англоязычный подробный туториал по numpy](http://nbviewer.jupyter.org/github/Atlas7/scipy-tentative-numpy-tutorials/blob/master/tentative-numpy-tutorial.ipynb)
+
+## Полезные ссылки
+* [Курс на Отрытом образовании по машинному обучению (Евгений Соколов)](https://openedu.ru/course/hse/INTRML/)
+* [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
+* [Видеозаписи курса лекций К. В. Воронцова](https://yandexdataschool.ru/edu-process/courses/machine-learning)
+* [Лекции Andrew Ng на coursera.org](https://www.coursera.org/learn/machine-learning): практические задания на языке MATLAB/Octave
+* [Вводный курс К. В. Воронцова на coursera.org](https://www.coursera.org/learn/introduction-machine-learning)
+* [https://www.dataquest.io](https://www.dataquest.io): сайт с интерактивными заданиями по Python для анализа данных
+* [Pattern Recognition and Machine Learning by C. Bishop](http://www.rmki.kfki.hu/~banmi/elte/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf)
+* [James, Witten, Hastie, Tibshirani — An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
+
+За прохождение курсов на coursera.org не обязательно платить: можно попросить материальную помощь или воспользоваться подпиской университета (для курсов университета).
+
