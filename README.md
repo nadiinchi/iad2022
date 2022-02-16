@@ -51,6 +51,12 @@ __Очень важно:__ Категорически запрещено пол�
 * [Ноутбук с семинара](https://github.com/nadiinchi/iad2022/blob/main/materials/Seminar4_sklearn.ipynb)
 * [Конспект семинара про классы](https://github.com/nadiinchi/iad2019/blob/master/materials/Seminar_sklearn.ipynb)
 
+*Семинар 5.* kNN.
+* [Ноутбук с семинара](https://github.com/nadiinchi/iad2021/blob/main/materials/Sklearn_2021.ipynb)
+* [Доска](https://github.com/nadiinchi/iad2022/blob/main/materials/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%20%D0%BA%D0%BD%D0%BD.pdf)
+* [Оформленный конспект семинара](https://github.com/nadiinchi/iad2021/blob/main/materials/knn.pdf)
+* [Документация sklearn](http://scikit-learn.org/stable/index.htmlhttps://github.com/nadiinchi/iad2022/blob/main/materials/Seminar5_knn.ipynb)
+
 ## Полезные ссылки
 * [Курс на Отрытом образовании по машинному обучению (Евгений Соколов)](https://openedu.ru/course/hse/INTRML/)
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
