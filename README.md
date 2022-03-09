@@ -57,6 +57,13 @@ __Очень важно:__ Категорически запрещено пол�
 * [Оформленный конспект семинара](https://github.com/nadiinchi/iad2021/blob/main/materials/knn.pdf)
 * [Документация sklearn](http://scikit-learn.org/stable/index.htmlhttps://github.com/nadiinchi/iad2022/blob/main/materials/Seminar5_knn.ipynb)
 
+*Семинар 5.* Линейная регрессия
+* см. конспект в чате
+
+*Семинар 7.* Трехмерная геометрия и градиентный спуск
+* [Ноутбук для семинара](https://github.com/nadiinchi/iad2020/blob/master/materials/grads_students.ipynb)
+* [Решение семинара](https://github.com/nadiinchi/iad2020/blob/master/materials/grads.ipynb)
+
 ## Полезные ссылки
 * [Курс на Отрытом образовании по машинному обучению (Евгений Соколов)](https://openedu.ru/course/hse/INTRML/)
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
