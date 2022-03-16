@@ -65,6 +65,11 @@ __Очень важно:__ Категорически запрещено пол�
 * [Ноутбук для семинара](https://github.com/nadiinchi/iad2020/blob/master/materials/grads_students.ipynb)
 * [Решение семинара](https://github.com/nadiinchi/iad2020/blob/master/materials/grads.ipynb)
 
+*Семинар 8.* Линейная регрссия: пример построения модели и разведочного анализа данных
+* [Задание](https://github.com/nadiinchi/intro_sklearn/blob/master/2_scoring_task.ipynb)
+* [Решение](https://github.com/nadiinchi/iad2022/blob/main/materials/Seminar8_linreg_practice.ipynb)
+* [Данные - подставить ссылку в ноутбук](https://github.com/nadiinchi/intro_sklearn/raw/master/scoring.xlsx)
+
 ## Полезные ссылки
 * [Курс на Отрытом образовании по машинному обучению (Евгений Соколов)](https://openedu.ru/course/hse/INTRML/)
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
