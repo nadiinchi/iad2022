@@ -94,6 +94,14 @@ __Очень важно:__ Категорически запрещено пол�
 * [Практическое задание](https://github.com/nadiinchi/iad2020/blob/master/materials/trees_practice_students2.ipynb)
 * [Конспект](https://github.com/nadiinchi/iad2020/blob/master/materials/compositions.ipynb)
 
+*Семинар 15. * Композиции алгоритмов: бустинг
+
+*Семинар 16. * Реализации бустинга, визуализация данных, генерация новых признаков
+* [Ноутбук про реализации бустинга](https://github.com/hse-ds/iad-intro-ds/blob/master/2022/seminars/sem15_boostings/sem15_boostings_part2.ipynb)
+* [Презентация про генерацию признаков](https://github.com/nadiinchi/iad2021/blob/main/materials/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B2%D0%B8%D0%B7%D1%83%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.pdf)
+* [Ноутбук про визуализацию](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/seminars/sem11-visualization.ipynb)
+
+
 
 ## Полезные ссылки
 * [Курс на Отрытом образовании по машинному обучению (Евгений Соколов)](https://openedu.ru/course/hse/INTRML/)
