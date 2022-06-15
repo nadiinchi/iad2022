@@ -102,7 +102,9 @@ __Очень важно:__ Категорически запрещено пол�
 * [Презентация про генерацию признаков](https://github.com/nadiinchi/iad2021/blob/main/materials/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B2%D0%B8%D0%B7%D1%83%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.pdf)
 * [Ноутбук про визуализацию](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/seminars/sem11-visualization.ipynb)
 
-
+*Семинар 17. * Кластеризация
+* [Задание для семинара](https://github.com/nadiinchi/iad2020/blob/master/materials/Sem_clustering_students.ipynb)
+* [Решение семинара](https://github.com/nadiinchi/iad2020/blob/master/materials/Sem_clustering.ipynb)
 
 ## Полезные ссылки
 * [Курс на Отрытом образовании по машинному обучению (Евгений Соколов)](https://openedu.ru/course/hse/INTRML/)
